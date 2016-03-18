@@ -5,7 +5,7 @@
     'name': 'Wechat Payment Acquirer',
     'category': 'Hidden',
     'summary': 'Payment Acquirer: Wechat Implementation',
-    'version': '8.0.2.0.0',
+    'version': '8.0.1.0.0',
     'website': 'www.elico-corp.com',
     "author": "Elico Corp",
     'depends': [
